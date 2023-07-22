@@ -3,11 +3,11 @@
   <title>Moxib</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://moxib.site/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://moxib.site/"/>
   <updated>2023-07-22T04:35:20.323Z</updated>
-  <id>http://example.com/</id>
+  <id>https://moxib.site/</id>
   
   <author>
     <name>Moxib</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>vertx高级指南（一）</title>
-    <link href="http://example.com/2023/07/22/vertx%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>http://example.com/2023/07/22/vertx%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <link href="https://moxib.site/2023/07/22/vertx%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://moxib.site/2023/07/22/vertx%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2023-07-22T02:09:31.000Z</published>
     <updated>2023-07-22T04:35:20.323Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-    <category term="vert.x" scheme="http://example.com/tags/vert-x/"/>
+    <category term="vert.x" scheme="https://moxib.site/tags/vert-x/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/07/09/hello-world/"/>
-    <id>http://example.com/2023/07/09/hello-world/</id>
+    <link href="https://moxib.site/2023/07/09/hello-world/"/>
+    <id>https://moxib.site/2023/07/09/hello-world/</id>
     <published>2023-07-09T14:45:05.211Z</published>
     <updated>2023-07-16T03:19:01.563Z</updated>
     
